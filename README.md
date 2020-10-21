@@ -5,4 +5,4 @@ El sistema programable con el lenguaje visual Arduinoblock es un Arduino Mega 25
 
 La estación base está desarrollada con el lenguaje de programación Processing almacenando los datos en un archivo de datos plano y visualizando gráficamente, en tiempo real, la recepción de los datos con la aplicación KST. 
 
-[Acceso a los contenidos](https://leobotmanuel.io/cansat-educativo/)
+[Acceso a los contenidos](https://leobotmanuel.github.io/cansat-educativo/)
