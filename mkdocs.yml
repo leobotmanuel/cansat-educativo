@@ -1,26 +1,26 @@
-# 1. Información del Taller
-site_name: Taller de X # TODO:
+# 1. Información de los contenidos
+site_name: Cansat educativo programado con ArduinoBlocks para telemetría de datos atmosféricos y geolocalización, lanzado por un cohete y rescatado con un paracaídas.
 site_description: La Jaqueria - Taller de X # TODO:
-site_author: Cristóbal Contreras Rubio # TODO:
-site_url: https://crisconru.github.io/ # TODO:
+site_author: Manuel Hidalgo - LeoBot
+site_url: https://leobotmanuel.github.io/cansat-educativo/
 
 # 2. Repositorio
-repo_name: crisconru/plantilla-taller # TODO:
-repo_url: https://github.com/crisconru/plantilla-taller # TODO:
+repo_name: leobotmanuel/cansat-educativo
+repo_url: https://github.com/leobotmanuel/cansat-educativo
 edit_uri: ""
 
 # 3. Copyright
-copyright: Copyright &copy; 2019 - 2020 Cristóbal Contreras # TODO:
+copyright: Copyright &copy; 2020 - 2025 Club Robótica Granada
 
 # 4. RRSS
-extra:
-  social:
-    - type: github
-      link: https://github.com/LaJaqueria # TODO:
-    - type: twitter
-      link: https://twitter.com/lajaqueria # TODO:
-    - type: linkedin
-      link: https://www.linkedin.com/company/lajaqueria/ # TODO:
+#extra:
+#  social:
+#    - type: github
+#      link: https://github.com/LaJaqueria # TODO:
+#    - type: twitter
+#      link: https://twitter.com/lajaqueria # TODO:
+#    - type: linkedin
+#      link: https://www.linkedin.com/company/lajaqueria/ # TODO:
 
 # 5. Navegación
 nav:

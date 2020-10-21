@@ -18,3 +18,4 @@ python_version = "3"
 
 [scripts]
 servidor = "mkdocs serve"
+deploy = "mkdocs gh-deploy"
