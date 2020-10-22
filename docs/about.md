@@ -1,13 +1,8 @@
 # Autor / autores
 
-TODO:
 
-![Foto de perfil](img/perfil.jpg)
+![Foto de perfil](img/perfilmanuel.png)
 
-Autor: Cristóbal Contreras Rubio
+Autor: Manuel Hidalgo - LeoBot
 
-Bio: ...
-
-Motivaciones: ...
-
-Pon info sobre ti y si quieres hacer anotaciones antes del taller.
+Divulgador de Robótica Educativa y OpenSource

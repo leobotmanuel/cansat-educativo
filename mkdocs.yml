@@ -1,8 +1,8 @@
 # 1. Información de los contenidos
 site_name: Cansat Educativo con ArduinoBlocks.
-site_description: La Jaqueria - Taller de X # TODO:
+site_description: Cansat Educativo programado con ArduinoBlocks
 site_author: Manuel Hidalgo - LeoBot
-site_url: https://leobotmanuel.github.io/cansat-educativo/
+site_url: https://leobotmanuel.github.io/
 
 # 2. Repositorio
 repo_name: leobotmanuel/cansat-educativo
@@ -16,17 +16,17 @@ copyright: Copyright &copy; 2020 - 2025 Club Robótica Granada
 #extra:
 #  social:
 #    - type: github
-#      link: https://github.com/LaJaqueria # TODO:
+#      link: https://github.com/leobotmanuel
 #    - type: twitter
-#      link: https://twitter.com/lajaqueria # TODO:
+#      link: https://twitter.com/leobotmanuel
 #    - type: linkedin
-#      link: https://www.linkedin.com/company/lajaqueria/ # TODO:
+#      link: https://www.linkedin.com/in/hidalgodiazmanuel/
 
 # 5. Navegación
 nav:
   # Modelo para empezar: Intro, Info del autor y la instalación
-  - Introducción: index.md # TODO:
-  - Autor / Autores: about.md # TODO:
+  - Introducción: index.md
+  - Autor / Autores: about.md
   - Instalación:
     - Instalación: instalacion/instalacion.md # TODO:
     - Windows: instalacion/windows.md # TODO:
