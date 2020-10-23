@@ -26,8 +26,8 @@ copyright: Copyright &copy; 2020 - 2025 Club Robótica Granada
 nav:
   # Modelo para empezar: Intro, Info del autor y la instalación
   - Introducción: index.md
-  #- Paracaidas:
-  #  - Diseño y cálculo: paracaidas/diseno.md
+  - Paracaidas:
+    - Diseño y cálculo: paracaidas/diseno.md
   #  - Trazado: paracaidas/trazado.md
   #  - Enlaces complementarios: paracaidas/enlacesParacaidas.md
   #- Estructura: estructura/estructura.md
