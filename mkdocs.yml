@@ -26,20 +26,25 @@ copyright: Copyright &copy; 2020 - 2025 Club Robótica Granada
 nav:
   # Modelo para empezar: Intro, Info del autor y la instalación
   - Introducción: index.md
-  - Autor / Autores: about.md
-  - Instalación:
-    - Instalación: instalacion/instalacion.md # TODO:
-    - Windows: instalacion/windows.md # TODO:
-    - Mac OS: instalacion/macos.md # TODO:
-    - Linux: instalacion/linux.md # TODO:
-  # Aquí seguirían tus secciones
-  # TODO:
-  # Por último, comenta estas 4 líneas
-  - Ayuda para escribir: # TODO:
-    - Notas: ayuda/ayuda.md # TODO:
-    - Markdown: ayuda/markdown.md # TODO:
-    - Material Design: ayuda/material.md # TODO:
-
+  - Paracaidas:
+    - Diseño y cálculo: paracaidas/diseno.md
+    - Trazado: paracaidas/trazado.md
+    - Enlaces complementarios: paracaidasa/enlacesParacaidas.md
+  - Estructura: estructura/estructura.md
+  - Comunicaciones por radio: comunicaciones/comunicaciones.md
+  - Software: software/software.md
+  - Mision Primaria:
+    - Electrónica con Arduino Mega:
+      - Componentes y piezas: misionPrimaria/electronica/componentes.md
+      - Pinout y esquema de conexiones: misionPrimaria/electronica/conexiones.md
+      - Alimentación: misionPrimaria/electronica/alimentacion.md
+      - Programación: misionPrimaria/electronica/programa.md
+    - Estación base: misionPrimaria/estacionBase/estacionBase.md
+  - Misión secundaria:
+    - Telemetría avanzada: misionSecundaria/telemetria.md
+    - Tratamiento y graficado de datos: misionSecundaria/graficas.md
+  - Autores: about.md
+  
 # 6. Google Analytics
 #google_analytics:
 #  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]

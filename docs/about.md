@@ -1,4 +1,4 @@
-# Autor / autores
+# Autores
 
 
 ![Foto de perfil](img/perfilmanuel.png)
