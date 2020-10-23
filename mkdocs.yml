@@ -26,23 +26,23 @@ copyright: Copyright &copy; 2020 - 2025 Club Robótica Granada
 nav:
   # Modelo para empezar: Intro, Info del autor y la instalación
   - Introducción: index.md
-  - Paracaidas:
-    - Diseño y cálculo: #paracaidas/diseno.md
-    - Trazado: #paracaidas/trazado.md
-    - Enlaces complementarios: #paracaidasa/enlacesParacaidas.md
-  - Estructura: #estructura/estructura.md
-  - Comunicaciones por radio: #comunicaciones/comunicaciones.md
-  - Software: #software/software.md
-  - Mision Primaria:
-    - Electrónica con Arduino Mega:
-      - Componentes y piezas: #misionPrimaria/electronica/componentes.md
-      - Pinout y esquema de conexiones: #misionPrimaria/electronica/conexiones.md
-      - Alimentación: #misionPrimaria/electronica/alimentacion.md
-      - Programación: #misionPrimaria/electronica/programa.md
-    - Estación base: #misionPrimaria/estacionBase/estacionBase.md
-  - Misión secundaria:
-    - Telemetría avanzada: #misionSecundaria/telemetria.md
-    - Tratamiento y graficado de datos: #misionSecundaria/graficas.md
+  #- Paracaidas:
+  #  - Diseño y cálculo: paracaidas/diseno.md
+  #  - Trazado: paracaidas/trazado.md
+  #  - Enlaces complementarios: paracaidasa/enlacesParacaidas.md
+  #- Estructura: estructura/estructura.md
+  #- Comunicaciones por radio: comunicaciones/comunicaciones.md
+  #- Software: software/software.md
+  #- Mision Primaria:
+  #  - Electrónica con Arduino Mega:
+  #    - Componentes y piezas: misionPrimaria/electronica/componentes.md
+  #    - Pinout y esquema de conexiones: misionPrimaria/electronica/conexiones.md
+  #    - Alimentación: misionPrimaria/electronica/alimentacion.md
+  #    - Programación: misionPrimaria/electronica/programa.md
+  #  - Estación base: misionPrimaria/estacionBase/estacionBase.md
+  #- Misión secundaria:
+  #  - Telemetría avanzada: misionSecundaria/telemetria.md
+  #  - Tratamiento y graficado de datos: misionSecundaria/graficas.md
   - Autores: about.md
   
 # 6. Google Analytics
