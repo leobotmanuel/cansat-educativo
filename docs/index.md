@@ -11,20 +11,21 @@ CanSat
 *  El sistema programable con el lenguaje visual Arduinoblock es un Arduino Mega 2560 Pro Mini con los sensores siguientes sensores: BMP180, acelerómetro, receptor IR y GPS. También un datalogger en memoria microSD para la grabación de datos en local y el módulo de comunicaciones RF APC220 para mandar los datos captados por los sensores a la estación base.
 
 <center>
-| ![Esquema](../img/introduccion/esquema.png) |
+| ![Esquema](img/introduccion/esquema.png) |
 
 | Esquema de conexiones |
 </center>
 
 <center>
-![programaSensores](../img/introduccion/programaSensores.png)
+| ![programaSensores](img/introduccion/programaSensores.png) |
 
-Programa Sensores 
+| Programa Sensores |
 </center>
+
 * La estación base recibe los datos por radio y  con el lenguaje de programación Processing almacena los datos en un archivo de datos plano y visualiza gráficamente, en tiempo real, la recepción de los datos con la aplicación KST.
 
 <center>
-![estacionBase](../img/introduccion/graficas.png)
+|![estacionBase](img/introduccion/graficas.png) |
 
-Presentación y gráficas de los datos
+| Presentación y gráficas de los datos |
 </center>
