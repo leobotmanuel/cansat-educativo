@@ -19,7 +19,7 @@ Esquema de conexiones
 <center>
 ![programaSensores](img/introduccion/programaSensores.png)
 
-Programa Sensores
+Programa. Código de bloques de Sensores
 </center>
 
 * La **estación base** recibe los datos por radio y  con el lenguaje de programación Processing almacena los datos en un archivo de datos plano y visualiza gráficamente, en tiempo real, la recepción de los datos con la aplicación KST.
