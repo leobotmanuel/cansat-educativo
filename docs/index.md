@@ -3,7 +3,7 @@
 * El proyecto Cansat Educativo es un sistema programable para telemetría de datos atmosféricos y geolocalización, lanzado por un cohete y rescatado con un paracaídas.
 
 <center>
-![CanSat](../img/introduccion/cansatParacaidas.png)
+![CanSat](img/introduccion/cansatParacaidas.png)
 
 CanSat
 </center>
