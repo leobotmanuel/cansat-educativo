@@ -25,6 +25,13 @@ Programa. Código de bloques de Sensores
 * La **estación base** recibe los datos por radio y  con el lenguaje de programación Processing almacena los datos en un archivo de datos plano y visualiza gráficamente, en tiempo real, la recepción de los datos con la aplicación KST.
 
 <center>
+![comunicaciones](img/introduccion/comunicaciones.png)
+
+Comunicaciones CanSat-Estación Base.
+Fuente: [recursos de ESERO](http://esero.es/wp-content/uploads/2019/10/T11_Radio_Communication.pdf)
+</center>
+
+<center>
 ![estacionBase](img/introduccion/graficas.png)
 
 Presentación y gráficas de los datos
