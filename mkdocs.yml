@@ -27,10 +27,11 @@ nav:
   # Modelo para empezar: Intro, Info del autor y la instalación
   - Introducción: index.md
   - CanSat. Proyecto Científico: cansat/cansat.md
-  - Paracaidas:
+  - Paracaídas: 
+    - Paracaídas: paracaidas/paracaidas.md
     - Diseño y cálculo: paracaidas/diseno.md
-  #  - Trazado: paracaidas/trazado.md
-  #  - Enlaces complementarios: paracaidas/enlacesParacaidas.md
+    - Secciones (gores): paracaidas/gores.md
+    - Enlaces complementarios: paracaidas/enlacesParacaidas.md
   #- Estructura: estructura/estructura.md
   #- Comunicaciones por radio: comunicaciones/comunicaciones.md
   #- Software: software/software.md

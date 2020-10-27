@@ -11,9 +11,9 @@ CanSat
 *  El **sistema electrónico programable** con el lenguaje visual Arduinoblock es un Arduino Mega 2560 Pro Mini con los siguientes sensores: BMP180, acelerómetro, receptor IR y GPS. También un datalogger en memoria microSD para la grabación de datos en local y el módulo de comunicaciones RF APC220 para mandar los datos captados por los sensores a la estación base.
 
 <center>
-![Esquema](img/introduccion/esquema.png)
+![ComponentesSE](img/introduccion/cansatComponentes.png)
 
-Esquema de conexiones
+Componentes del sistema electrónico
 </center>
 
 <center>
