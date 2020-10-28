@@ -9,3 +9,11 @@ La estructura del CanSat se ha basado en [Canduino](https://leobotmanuel.github.
 
 Interior del CanSat
 </center>
+
+Estructura oficial [“cansat” stl](http://esamultimedia.esa.int/docs/edu/3d_printer_files_for_Cansat_case.zip), la estructura tiene los archivos shell (recipiente exterior), que se imprime dos veces y shield que es la bandeja separadora para colocar componentes electrónicos y de control.
+
+<center>
+![Despiece estructura](../img/estructura/despieceEstructura.png)
+
+Despiece del CanSat
+</center>
