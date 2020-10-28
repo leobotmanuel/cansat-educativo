@@ -32,7 +32,7 @@ nav:
     - Diseño y cálculo: paracaidas/diseno.md
     - Secciones (gores): paracaidas/gores.md
     - Enlaces complementarios: paracaidas/enlacesParacaidas.md
-  #- Estructura: estructura/estructura.md
+  - Estructura: estructura/estructura.md
   #- Comunicaciones por radio: comunicaciones/comunicaciones.md
   #- Software: software/software.md
   #- Mision Primaria:
