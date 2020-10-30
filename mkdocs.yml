@@ -34,9 +34,9 @@ nav:
     - Enlaces complementarios: paracaidas/enlacesParacaidas.md
   - Estructura: estructura/estructura.md
   - Comunicaciones por radio: comunicaciones/comunicaciones.md
-  #- Software: software/software.md
-  #- Mision Primaria:
-  #  - Electrónica con Arduino Mega:
+  - Software: software/software.md
+  - Mision Primaria: misionPrimaria/misionPrimaria.md
+    - Electrónica con Arduino Mega:
   #    - Componentes y piezas: misionPrimaria/electronica/componentes.md
   #    - Pinout y esquema de conexiones: misionPrimaria/electronica/conexiones.md
   #    - Alimentación: misionPrimaria/electronica/alimentacion.md
