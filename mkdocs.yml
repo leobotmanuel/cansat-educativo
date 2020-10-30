@@ -33,7 +33,7 @@ nav:
     - Secciones (gores): paracaidas/gores.md
     - Enlaces complementarios: paracaidas/enlacesParacaidas.md
   - Estructura: estructura/estructura.md
-  #- Comunicaciones por radio: comunicaciones/comunicaciones.md
+  - Comunicaciones por radio: comunicaciones/comunicaciones.md
   #- Software: software/software.md
   #- Mision Primaria:
   #  - Electrónica con Arduino Mega:
