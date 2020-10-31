@@ -45,8 +45,7 @@ nav:
       - Programa: misionPrimaria/electronicaProgramacion/programa.md
     - Estación base: misionPrimaria/estacionBase/estacionBase.md
   - Misión secundaria:
-    - Telemetría avanzada: misionSecundaria/telemetria.md
-    - Tratamiento y graficado de datos: misionSecundaria/graficas.md
+    - Telemetría avanzada, tratamiento y graficado de datos: misionSecundaria/telemetria.md
   - Galería de imágenes: imagenes.md
   - Autores: about.md
   

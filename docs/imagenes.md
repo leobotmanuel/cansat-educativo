@@ -1,1 +1,1 @@
-#Galería de imágenes
+#Galería de imágenes y videos
