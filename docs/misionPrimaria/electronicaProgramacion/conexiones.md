@@ -1,7 +1,7 @@
 # Esquema de conexiones.
 
 <center>
-![Conexiones](../../img/electronicaProgramacion/esquema.png)
+![Conexiones](../../img/misionPrimaria/electronica/esquema.png)
 
 Esquema de conexiones
 </center>
