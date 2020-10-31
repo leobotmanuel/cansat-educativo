@@ -35,16 +35,19 @@ nav:
   - Estructura: estructura/estructura.md
   - Comunicaciones por radio: comunicaciones/comunicaciones.md
   - Software: software/software.md
-  - Mision Primaria: misionPrimaria/misionPrimaria.md
-    - Electrónica con Arduino Mega:
+  - Misión Primaria: 
+    - Misión Primaria: misionPrimaria/misionPrimaria.md
+    - Electrónica y programación:
+      - Arduino Mega: misionPrimaria/electronicaProgramacion/conexiones.md
   #    - Componentes y piezas: misionPrimaria/electronica/componentes.md
-  #    - Pinout y esquema de conexiones: misionPrimaria/electronica/conexiones.md
+  #    - Pinout y esquema de conexiones: 
   #    - Alimentación: misionPrimaria/electronica/alimentacion.md
-  #    - Programación: misionPrimaria/electronica/programa.md
-  #  - Estación base: misionPrimaria/estacionBase/estacionBase.md
-  #- Misión secundaria:
-  #  - Telemetría avanzada: misionSecundaria/telemetria.md
-  #  - Tratamiento y graficado de datos: misionSecundaria/graficas.md
+      - Programa: misionPrimaria/electronicaProgramacion/programa.md
+    - Estación base: misionPrimaria/estacionBase/estacionBase.md
+  - Misión secundaria:
+    - Telemetría avanzada: misionSecundaria/telemetria.md
+    - Tratamiento y graficado de datos: misionSecundaria/graficas.md
+  - Galería de imágenes: imagenes.md
   - Autores: about.md
   
 # 6. Google Analytics
