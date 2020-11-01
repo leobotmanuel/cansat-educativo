@@ -76,7 +76,7 @@ void datosPantalla(String tiempo, String longitud, String latitud, String altitu
 ```
 El resultado es el siguiente:
 <center>
-![Datos Estación Base](/img/misionPrimaria/estacionBase/datosEstacionBase.png)
+![Datos Estación Base](../../img/misionPrimaria/estacionBase/datosEstacionBase.png)
 
 Presentación de los datos. Estación Base
 </center>
