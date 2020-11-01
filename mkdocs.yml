@@ -46,7 +46,9 @@ nav:
     - Estación base: misionPrimaria/estacionBase/estacionBase.md
   - Misión secundaria:
     - Telemetría avanzada, tratamiento y graficado de datos: misionSecundaria/telemetria.md
-  - Galería de imágenes: imagenes.md
+  - Galería de imágenes:
+    - Equipo SotoSat: galeria/imagenesEquipo.md
+    - CanSat-Granada julio 2020: galeria/clubConcurso2020.md
   - Autores: about.md
   
 # 6. Google Analytics
