@@ -2,9 +2,9 @@
 <center>
 ![Foto de perfil](img/perfilPedro.png)
 
-Pedro Ruíz
+[Pedro Ruíz](https://twitter.com/pedroruizf)
 
-Profesor de Tecnología
+[Profesor de Tecnología](https://github.com/pedroruizf)
 </center>
 <center>
 ![Foto de perfil](img/perfilChema.png)
@@ -16,7 +16,7 @@ Ingeniero Tec. Telecomunicaciones
 <center>
 ![Foto de perfil](img/perfilmanuel.png)
 
-Manuel Hidalgo - LeoBot
+[Manuel Hidalgo - LeoBot](https://twitter.com/leobotmanuel)
 
-Divulgador de Robótica Educativa y OpenSource
+[Divulgador de Robótica Educativa y OpenSource](https://github.com/leobotmanuel)
 </center>

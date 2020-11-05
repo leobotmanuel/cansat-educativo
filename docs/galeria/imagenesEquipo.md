@@ -33,7 +33,7 @@ Probando el paracaídas
 ![Diseño 02](../img/galeria/imagenesEquipo/estructura_piezas_nuestras_02_abajo.png)
 </center>
 <center>
-![Diseño 03](../img/galeria/imagenesEquipo/estructura_piezas_nuestras_03_abajo.png)
+![Diseño 03](../img/galeria/imagenesEquipo/estructura_piezas_nuestras_03_arriba.png)
 </center>
 <center>
 ![Diseño 04](../img/galeria/imagenesEquipo/estructura_piezas_01.jpg)
