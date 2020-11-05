@@ -1,5 +1,10 @@
 # Programa de Estación Base (PC) en Processing.
 El programa de la **Estación Base** se ejecuta en el PC, establece comunicación con el puerto serie (APC200 receptor pinchado en USB), filtra los posibles datos erróneos que provengan de cansat usando tres comprobaciones: verifica que la cantidad de campos que hay en cada registro sean 10, verifica que el primer y el último campo tengan un valor determinado, en nuestro caso primer campo “soto” y el último campo “fin”. Más tarde con los datos ya filtrados los guarda en un fichero y los muestra en consola y ventana.
+<center>
+![Estación Base](../../img/galeria/imagenesEquipo/telemetria_01.jpg)
+
+Estación Base
+</center>
 
 A continuación el [código processing](https://drive.google.com/file/d/1h5Gw03SzC58vAIHrscAUBQ4DusNBqbN4/view) de la **Estación Base**, esperamos que los comentarios sean suficientemente aclaratorios. 
 
