@@ -13,3 +13,14 @@ La representación gráfica de los cálculos:
 
 representación gráfica de la forma de las secciones
 </center>
+
+<center>
+![Gores dibujo](../img/galeria/imagenesEquipo/construccion_paraca_05.jpg)
+
+Dibujo de secciones del paracaídas para cortar
+</center>
+<center>
+![Secciones](../img/galeria/imagenesEquipo/construccion_paraca_03.jpg)
+
+Corte de las secciones (gores) del paracaídas
+</center>
