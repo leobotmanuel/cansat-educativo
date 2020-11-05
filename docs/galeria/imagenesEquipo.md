@@ -19,10 +19,10 @@ El equipo SotoSat del IES Pedro Soto de Rojas de Granada con la colaboración de
 </center>
 Probando el paracaídas
 <center>
-[1º Video paracaidas](../img/galeria/imagenesEquipo/paraca_04.mp4)
+[1º Video paracaidas](../img/galeria/imagenesEquipo/paraca_03.mp4)
 </center>
 <center>
-[2º Video paracaidas](../img/galeria/imagenesEquipo/paraca_03.mp4)
+[2º Video paracaidas](../img/galeria/imagenesEquipo/paraca_01.mp4)
 </center>
 
 **Diseño e impresión 3D de la estructura**
