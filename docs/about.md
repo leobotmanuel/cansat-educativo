@@ -18,5 +18,5 @@ Ingeniero Tec. Telecomunicaciones
 
 [Manuel Hidalgo - LeoBot](https://twitter.com/leobotmanuel)
 
-[Divulgador de Robótica Educativa y OpenSource](https://github.com/leobotmanuel)
+[Divulgador de Robótica Educativa y OpenSource](https://leobotmanuel.github.io/leobotmanuel)
 </center>
