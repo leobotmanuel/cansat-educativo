@@ -1,4 +1,4 @@
-# Telemetetría avanzada, tratatamiento y graficado de datos
+# Telemetría avanzada, tratatamiento y graficado de datos
 La misión secundaria que se aborda con este proyecto pretende ser de bajo coste y exportable al mayor número de situaciones, para ello se han escogido tres vías de actuación:
 
 * Realizar telemetría avanzada usando sensores de bajo costo: posicionamiento gps, aceleración, velocidad, etc.
