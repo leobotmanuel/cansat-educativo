@@ -1,5 +1,9 @@
 # Introducción
 
+La presentación de este proyecto es el trabajo desarrollado por el **equipo SotoSat** del IES Soto de Rojas de Granada que durante el curso 2019-2020 iba documentando y compartiendo en un documento en el [repositorio abierto](https://github.com/pedroruizf/cansat) para el [concurso CanSat](http://esero.es/cansat/) organizado por [ESERO](http://esero.es/) de la [Agencia Espacial Europea](http://www.esa.int). 
+
+Esperamos que este proyecto Open Source accesible y de bajo coste ayude y anime a centros educativos a participar en las siguientes ediciones de [CanSat](http://esero.es/cansat/).
+
 * El proyecto **Cansat Educativo** es un sistema electrónico programable para telemetría de datos atmosféricos y geolocalización, lanzado por un cohete y rescatado con un paracaídas.
 
 <center>
