@@ -24,3 +24,6 @@ Dibujo de secciones del paracaídas para cortar
 
 Corte de las secciones (gores) del paracaídas
 </center>
+<center>
+[Video prueba paracaidas](../img/galeria/imagenesEquipo/paraca_01.mp4)
+</center>
